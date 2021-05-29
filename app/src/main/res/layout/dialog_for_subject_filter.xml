@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/text_for_search_olimps_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="318dp"
+        android:text="there will be checkbox" />
+</LinearLayout>
